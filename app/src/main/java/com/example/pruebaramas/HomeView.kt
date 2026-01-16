@@ -27,11 +27,12 @@ fun HomeView(modifier: Modifier) {
 
         )
 
+
         Box(
             Modifier
                 .weight(1f)
                 .fillMaxWidth()
-                .background(Color.Red)
+                .background(Color.Green)
         )
 
 
