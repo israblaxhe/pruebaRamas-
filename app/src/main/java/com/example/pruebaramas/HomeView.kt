@@ -26,6 +26,7 @@ fun HomeView(modifier: Modifier) {
                 .background(Color.Blue)
 
         )
+        today is a day sad
 
 
         Box(
