@@ -27,6 +27,11 @@ fun HomeView(modifier: Modifier) {
 
         )
 
+    println("Local changue")
+        println("Local changue")
+        println("Local changue")
+        println("Local changue")
+        println("Local changue")
 
         Box(
             Modifier
