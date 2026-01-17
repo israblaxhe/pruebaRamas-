@@ -26,7 +26,7 @@ fun HomeView(modifier: Modifier) {
                 .background(Color.Blue)
 
         )
-
+    print("Aqui hacemos un print de carita triste")
 
 
         Box(
