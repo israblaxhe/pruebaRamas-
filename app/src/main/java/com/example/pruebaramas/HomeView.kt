@@ -28,6 +28,8 @@ fun HomeView(modifier: Modifier) {
         )
     print("Aqui hacemos un print de carita triste")
 
+        print("prueba 3")
+
 
         Box(
             Modifier
