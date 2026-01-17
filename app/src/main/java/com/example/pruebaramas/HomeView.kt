@@ -30,6 +30,7 @@ fun HomeView(modifier: Modifier) {
 
         print("prueba 3")
 
+//HAppy dos =)
 
         Box(
             Modifier
