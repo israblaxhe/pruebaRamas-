@@ -31,6 +31,7 @@ fun HomeView(modifier: Modifier) {
                 .background(Color.Blue)
 
         )
+        ///CARITAAAS
     print("Aqui hacemos un print de carita triste")
 
         print("prueba 3")
