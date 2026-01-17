@@ -17,7 +17,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 
 
-print("Hola")
+print("asms")
 print("Hola")
 print("Hola")
 print("Hola")
