@@ -27,7 +27,7 @@ fun HomeView(modifier: Modifier) {
 
         )
 
-
+//HAppy dos =)
 
         Box(
             Modifier
