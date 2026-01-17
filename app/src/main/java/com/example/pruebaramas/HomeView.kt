@@ -16,6 +16,11 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 
+
+print("Hola")
+print("Hola")
+print("Hola")
+print("Hola")
 @Composable
 fun HomeView(modifier: Modifier) {
     Column() {
